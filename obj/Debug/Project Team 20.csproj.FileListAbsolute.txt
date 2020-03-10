@@ -1,0 +1,18 @@
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\bin\Debug\Project Team 20.exe.config
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\bin\Debug\Project Team 20.exe
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\bin\Debug\Project Team 20.pdb
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project Team 20.csprojResolveAssemblyReference.cache
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.BasicUser_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.BasicUser_Registration_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.Properties.Resources.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TeachingAssistant_Folder.ChooseHoursToWork_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TeachingAssistant_Folder.NumOfDays_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TeachingAssistant_Folder.OfficeHours_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TeachingAssistant_Folder.SemestersToTeach_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TeachingAssist_Form.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project_Team_20.TempMainForm.resources
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project Team 20.csproj.GenerateResource.Cache
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project Team 20.exe
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\obj\Debug\Project Team 20.pdb
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\bin\Debug\SQL DataBase\ProjectDataBase.mdf
+C:\Users\jenia\Source\Workspaces\Project 20\Project Team 20\Project Team 20\bin\Debug\SQL DataBase\ProjectDataBase_log.ldf
